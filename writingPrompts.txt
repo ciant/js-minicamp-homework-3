@@ -1,0 +1,26 @@
+Feynman Writing Prompts
+
+1. Objects
+Objects are variables, but contain many different properties related to the object. These properties are written
+in 'key:value' pairs.
+
+
+2. Properties
+You can think of a JavaScript object like you would any real-world object.
+A car is an object which has properties, brand: honda, color: white, numberOfDoors: 4.
+Properties in objects follow this 'key:value' format.
+
+3. Methods
+A properties value can be a function which is called a method when inside an object.
+A method is an action that can be performed on an object.
+
+4. for in loop
+This is a loop which can iterate over the different keys in an object. It goes key by key on the specified object.
+This gives you access to every key and value in an object without knowing the key name.
+
+5. dot notation vs bracket notation
+Dot and bracket notation are both used for accessing a property on an object.
+The object name, then a dot, and then the property name allows you to access a property.
+You could also put the object name followed by the property name in brackets.
+Dot notation is used more frequently, but bracket notation allows you to enter variable names
+when you don't know what the key is at that time (dynamically determined).
